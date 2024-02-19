@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Peacehuntel1
-- 👀 I’m interested in AI and world of tech
-- 🌱 I’m currently learning AICE and JavaScript 
-- 💞️ I’m looking someone advanced skilled IT tocollaborate on my promised project 
+- 👀 I’m interested in AI and world of Tech
+- 🌱 I’m currently learning AICE , python and JavaScript 
+- 💞️ I’m looking someone advanced skilled IT to collaborate on my promised project 
 - 📫 you can reach me through ntakishunter@gmail.com
 - ⚡ Fun fact: don't dream just work
 
